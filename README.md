@@ -72,7 +72,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Bernardo Amaral** - *Initial work* - [PurpleBooth](https://github.com/bernardo-amaral)
+* **Bernardo Amaral** - *Initial work* - [bernardo-amaral](https://github.com/bernardo-amaral)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
